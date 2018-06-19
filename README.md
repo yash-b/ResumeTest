@@ -15,14 +15,14 @@ ___
 ___
 ### **Education**  
 #### High Bluff Academy  
-Graduated June 2014 with 4.0  
+>Graduated June 2014 with 4.0  
 #### Skyline College, San Bruno _(Fall 2015)_
-Transferred to LA Pierce College with 3.50 while being mentioned in the Dean's List. 
+>Transferred to LA Pierce College with 3.50 while being mentioned in the Dean's List. 
 #### LA Pierce College, Woodland Hills _(Spring 2016 - Fall 2017)_  
-Recieved Graphic Design certificate while taking Computer Science courses and transferred to CSU Fullerton with 3.40 GPA.    
+>Recieved Graphic Design certificate while taking Computer Science courses and transferred to CSU Fullerton with 3.40 GPA.    
 #### California State University, Fullerton _(Spring 2018 - Present)_  
-Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
-Currently enrolled in Upper Division Courses for Computer Science.
+>Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
+ >Currently enrolled in Upper Division Courses for Computer Science.
 ___
 ### **Volunteering Experience**
 #### Minuteman Press, Northridge _(July 2014 - December 2016)_
