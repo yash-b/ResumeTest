@@ -1,4 +1,4 @@
-#### Yash Bhambhani  
+### Yash Bhambhani  
 1601 W MacArthur Blvd, #7F  
 Santa Ana, CA 92704  
 bhambhani.yash@gmail.com  
@@ -34,3 +34,8 @@ While I volunteered I gained a lot of experience in team communication, customer
 #### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
 While I volunteered I gained experience in customer service and how to deal with stressful situations with difficult clients.
 ___
+#### **Other Skills & Hobbies**
++ Received Microsoft Office Champ certification.
++ Strong interest in new technologies and how they function.
++ Self-taught Counter-Strike: Global Offensive map creator using _Valve CS:SDK._
++ Technical proficiency in Windows, Linux (Ubuntu and Fedora), and MAC OS.
