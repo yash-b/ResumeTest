@@ -35,6 +35,8 @@ While I volunteered I gained a lot of experience in team communication, customer
 While I volunteered as a cashier, I gained experience in customer service and how to deal with stressful situations with difficult clients.
 ___
 ### **Other Skills & Hobbies**
++ Currently self-learning AndroidStudio.
++ Have experience in creating App Screens, logos, color swatches (visual only).
 + Received Microsoft Office Champ certification.
 + Strong interest in new technologies and how they function.
 + Self-taught Counter-Strike: Global Offensive map creator using _Valve CS:SDK._
